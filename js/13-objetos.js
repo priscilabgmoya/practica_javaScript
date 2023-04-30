@@ -1,7 +1,7 @@
 let persona = {
     nombre: 'priscila',
     edad: 24, 
-    dni: 41182280,
+    dni: 000000000,
     domicilio: 'pje hipolito buchardo 2015',
     hijos: 0, 
     profesion: 'estudiante', 
